@@ -10,4 +10,5 @@ package testmonday;
  */
 public class PartTimeStudent {
     private int sid;
+    private String cname;
 }
