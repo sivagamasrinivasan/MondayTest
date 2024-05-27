@@ -11,4 +11,5 @@ package testmonday;
 public class Student {
     private int sid;
     private String name;
+    private float fee;
 }
